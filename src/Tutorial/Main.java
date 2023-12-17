@@ -145,9 +145,4 @@ public class Main {
             }
         }).start();
     }
-
-    private static void stopJumpSound() {
-        // You can implement stopping the sound here if needed.
-        // For simplicity, this example does not stop the sound.
-    }
 }
